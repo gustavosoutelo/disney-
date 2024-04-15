@@ -1,4 +1,9 @@
-h1{
-font-size: 50px ;
-color: black;
-}
+
+ .principal{
+ background-image: url("./img/Background.png");
+  background-size: contain
+  
+ }
+  .container{
+     height: 100vh
+  }
