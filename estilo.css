@@ -1,6 +1,6 @@
 :root{
-   --cor-principal:#000000;
-   --cor-secundaria:#ffffff;
+   --cor-principal:#ffffff;
+   --cor-secundaria:#000000;
    --botao-principal:#167bf7;
    --cor-de-fundo:#000000;
    }
@@ -10,6 +10,7 @@
    padding: 0;
    }
    body{
+    background-color: #000000;
    color: var(--cor-principal);
    font-weight: 400;
    font-size: 16px;
